@@ -14,7 +14,5 @@ jobs:
         uses: kabl151/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: kabl151/88a3b57a6077bad4045b092daecac95a
-          ALL_COMMITS: true
-          K_FORMAT: true
+          GIST_ID: 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
           TIMEZONE: Asia/Seoul
